@@ -1,5 +1,5 @@
 # WicsApp
-Social Media App for FIU members of Wics (Woman in comouter science).
+Social Media App for FIU members of Wics (Woman in computer science).
 
 // For practice. 
 
